@@ -248,3 +248,8 @@ If this curated guide helps you architect your observability pipeline, streamlin
   <sub>Maintained with ❤️ for SREs, DevOps Engineers, Cloud Architects, and System Administrators worldwide.</sub>
 </p>
 >>>>>>> c647a6e8a32d03e31b3bbeb23cd814bed1e6928a
+Copy-Item README.md README.md.bak -Force
+# Manual step: replace SaaS and Open-Source sections with content above
+git add README.md
+git commit -m "docs: add infra/app monitoring pricing (ServiceNow $12/SU, Datadog $15-35/host, Dynatrace DPS benchmarks, AppDynamics $6-50/core, LogicMonitor HU, SolarWinds node, Zabbix free, Grafana Cloud free tier) and open-source Prometheus/Grafana/Zabbix/Loki"
+git push
