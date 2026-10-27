@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&amp;logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Infrastructure-Application-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Infrastructure-Application-Monitoring?style=flat-square&amp;logo=github&amp;color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Infrastructure-Application-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Infrastructure-Application-Monitoring?style=flat-square&amp;logo=github&amp;color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Infrastructure-Application-Monitoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Infrastructure-Application-Monitoring?style=flat-square&amp;logo=github&amp;color=teal" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Infrastructure-Application-Monitoring/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Infrastructure-Application-Monitoring/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
@@ -77,129 +77,129 @@ The table below catalogs premier commercial SaaS observability and monitoring so
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-The following open-source solutions provide self-hosted, sovereign, and flexible infrastructure and application monitoring. Each entry includes its real-time **GitHub star count badge** linking directly to the project's stargazers page, sorted in **strict descending order of GitHub stars**.
+The following open-source solutions provide self-hosted, sovereign, and flexible infrastructure and application monitoring. Each entry includes its real-time **GitHub Stars_Count badge** linking directly to the project's stargazers page, sorted in **strict descending order of GitHub_Stars**.
 
-### 1. 🟢 [Uptime Kuma](https://github.com/louislam/uptime-kuma) [![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)
+### 1. 🟢 [Uptime Kuma](https://github.com/louislam/uptime-kuma) [![GitHub_Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers)
 * **Primary Focus**: 🌐 Self-Hosted Uptime &amp; Service Availability Monitoring
 * **Tech Stack &amp; License**: Node.js, Vue.js, SQLite | **MIT License**
 * **Architectural Highlights**: Responsive self-hosted monitoring tool that provides multi-protocol uptime checks (HTTP/HTTPS, TCP, Ping, DNS, Docker container health), SSL certificate expiration tracking, public status pages, and instant alerting across 90+ notification services (Discord, Telegram, Slack, Webhooks).
 
-### 2. ⚡ [Netdata](https://github.com/netdata/netdata) [![GitHub stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers)
+### 2. ⚡ [Netdata](https://github.com/netdata/netdata) [![GitHub_Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers)
 * **Primary Focus**: 📈 Real-Time, High-Fidelity Infrastructure &amp; OS Telemetry
 * **Tech Stack &amp; License**: C, Go, Python | **GPL v3 License**
 * **Architectural Highlights**: Delivers per-second metric granularity with minimal CPU and memory footprints. Auto-detects 800+ integrations (system metrics, hardware sensors, containers, web servers, databases) and provides unsupervised machine-learning anomaly detection out of the box.
 
-### 3. 🔎 [Elasticsearch](https://github.com/elastic/elasticsearch) [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)
+### 3. 🔎 [Elasticsearch](https://github.com/elastic/elasticsearch) [![GitHub_Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)
 * **Primary Focus**: 📜 Distributed Telemetry Storage, Search &amp; Enterprise Log Analytics
 * **Tech Stack &amp; License**: Java | **Elastic License 2.0 / SSPL / Apache 2.0 dual**
 * **Architectural Highlights**: Distributed, RESTful search and analytics engine underpinning the Elastic Observability ecosystem. Provides high-speed log ingestion, automated index lifecycle management (ILM), synthetics monitoring, and dense vector search for observability data.
 
-### 4. 📊 [Grafana](https://github.com/grafana/grafana) [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)
+### 4. 📊 [Grafana](https://github.com/grafana/grafana) [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)
 * **Primary Focus**: 🖥️ Universal Telemetry Visualization &amp; Operational Dashboards
 * **Tech Stack &amp; License**: TypeScript, Go | **AGPL v3 License**
 * **Architectural Highlights**: The de facto industry standard for composable observability dashboards. Plugs seamlessly into Prometheus, Loki, Tempo, InfluxDB, Elasticsearch, ClickHouse, and dozens of third-party backends. Provides unified alert management, role-based access control, and dynamic query editors.
 
-### 5. 🔥 [Prometheus](https://github.com/prometheus/prometheus) [![GitHub stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers)
+### 5. 🔥 [Prometheus](https://github.com/prometheus/prometheus) [![GitHub_Stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers)
 * **Primary Focus**: ⏱️ Cloud-Native Time-Series Metrics Collection &amp; Alerting
 * **Tech Stack &amp; License**: Go | **Apache 2.0 License**
 * **Architectural Highlights**: CNCF graduated project and the foundation of modern Kubernetes observability. Implements an efficient dimensional data model with key-value labels, the powerful PromQL query language, a pull-based scraping architecture, and Alertmanager routing.
 
-### 6. 💻 [Glances](https://github.com/nicolargo/glances) [![GitHub stars](https://img.shields.io/github/stars/nicolargo/glances?style=social&color=white)](https://github.com/nicolargo/glances/stargazers)
+### 6. 💻 [Glances](https://github.com/nicolargo/glances) [![GitHub_Stars](https://img.shields.io/github/stars/nicolargo/glances?style=social&color=white)](https://github.com/nicolargo/glances/stargazers)
 * **Primary Focus**: 🎛️ Cross-Platform System &amp; Container Terminal Monitoring
 * **Tech Stack &amp; License**: Python | **LGPL v3 License**
 * **Architectural Highlights**: Lightweight CLI and web-based monitoring tool that captures CPU, memory, load, processes, network I/O, disk partitions, GPU sensors, Docker containers, and AMPs (Application Monitoring Processes). Exposes a clean RESTful JSON API and web dashboard.
 
-### 7. 🚀 [SigNoz](https://github.com/SigNoz/signoz) [![GitHub stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white)](https://github.com/SigNoz/signoz/stargazers)
+### 7. 🚀 [SigNoz](https://github.com/SigNoz/signoz) [![GitHub_Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white)](https://github.com/SigNoz/signoz/stargazers)
 * **Primary Focus**: 🎯 OpenTelemetry-Native Full-Stack APM &amp; Observability (Datadog Alternative)
 * **Tech Stack &amp; License**: Go, TypeScript, ClickHouse | **Apache 2.0 / BSL License**
 * **Architectural Highlights**: Open-source APM alternative to Datadog and New Relic. Built natively on OpenTelemetry standards and powered by a blazing-fast ClickHouse columnar storage backend. Seamlessly correlates distributed traces, metrics, and structured logs in a single unified UI.
 
-### 8. 📜 [Grafana Loki](https://github.com/grafana/loki) [![GitHub stars](https://img.shields.io/github/stars/grafana/loki?style=social&color=white)](https://github.com/grafana/loki/stargazers)
+### 8. 📜 [Grafana Loki](https://github.com/grafana/loki) [![GitHub_Stars](https://img.shields.io/github/stars/grafana/loki?style=social&color=white)](https://github.com/grafana/loki/stargazers)
 * **Primary Focus**: 🗄️ Horizontally Scalable, Label-Indexed Log Aggregation
 * **Tech Stack &amp; License**: Go | **AGPL v3 License**
 * **Architectural Highlights**: Designed on the philosophy of Prometheus: indexes only metadata labels rather than full-text payloads. Dramatically lowers cloud storage costs by storing compressed log streams in object storage (AWS S3, GCS, MinIO) and provides LogQL for filtering and metric generation.
 
-### 9. 🌌 [Apache SkyWalking](https://github.com/apache/skywalking) [![GitHub stars](https://img.shields.io/github/stars/apache/skywalking?style=social&color=white)](https://github.com/apache/skywalking/stargazers)
+### 9. 🌌 [Apache SkyWalking](https://github.com/apache/skywalking) [![GitHub_Stars](https://img.shields.io/github/stars/apache/skywalking?style=social&color=white)](https://github.com/apache/skywalking/stargazers)
 * **Primary Focus**: 🧭 Distributed APM, Service Mesh Telemetry &amp; Diagnostics
 * **Tech Stack &amp; License**: Java | **Apache 2.0 License**
 * **Architectural Highlights**: Comprehensive application performance monitor specifically designed for microservices, cloud-native, and container-based (Docker, Kubernetes, Mesos) architectures. Supports auto-instrumentation agents for Java, .NET, Node.js, Go, Python, and Envoy service mesh telemetry.
 
-### 10. 🕵️ [Jaeger](https://github.com/jaegertracing/jaeger) [![GitHub stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social&color=white)](https://github.com/jaegertracing/jaeger/stargazers)
+### 10. 🕵️ [Jaeger](https://github.com/jaegertracing/jaeger) [![GitHub_Stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social&color=white)](https://github.com/jaegertracing/jaeger/stargazers)
 * **Primary Focus**: 🔀 Distributed Tracing &amp; Microservice Transaction Profiling
 * **Tech Stack &amp; License**: Go | **Apache 2.0 License**
 * **Architectural Highlights**: CNCF graduated distributed tracing platform originally created by Uber. Monitors complex microservice transactions, pinpoints distributed latency bottlenecks, visualizes dependency DAGs, and supports OpenTelemetry instrumentation formats natively.
 
-### 11. 🛡️ [BCC (BPF Compiler Collection)](https://github.com/iovisor/bcc) [![GitHub stars](https://img.shields.io/github/stars/iovisor/bcc?style=social&color=white)](https://github.com/iovisor/bcc/stargazers)
+### 11. 🛡️ [BCC (BPF Compiler Collection)](https://github.com/iovisor/bcc) [![GitHub_Stars](https://img.shields.io/github/stars/iovisor/bcc?style=social&color=white)](https://github.com/iovisor/bcc/stargazers)
 * **Primary Focus**: 🧬 Kernel-Level eBPF Tracing, Performance &amp; Latency Analysis
 * **Tech Stack &amp; License**: C, Python, Lua | **Apache 2.0 License**
 * **Architectural Highlights**: Toolkit for creating efficient kernel tracing and manipulation programs using extended Berkeley Packet Filters (eBPF). Inspects disk I/O latency, memory allocation leaks, TCP socket lifecycle, and process run-queue latency with near-zero runtime overhead.
 
-### 12. 📦 [cAdvisor](https://github.com/google/cadvisor) [![GitHub stars](https://img.shields.io/github/stars/google/cadvisor?style=social&color=white)](https://github.com/google/cadvisor/stargazers)
+### 12. 📦 [cAdvisor](https://github.com/google/cadvisor) [![GitHub_Stars](https://img.shields.io/github/stars/google/cadvisor?style=social&color=white)](https://github.com/google/cadvisor/stargazers)
 * **Primary Focus**: 🐳 Container Resource Usage &amp; Performance Telemetry
 * **Tech Stack &amp; License**: Go | **Apache 2.0 License**
 * **Architectural Highlights**: Developed by Google; analyzes and exposes resource usage and performance characteristics of running containers (CPU, memory, filesystem, network). Native integration within the Kubernetes Kubelet for node-level container metric aggregation.
 
-### 13. 📉 [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) [![GitHub stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers)
+### 13. 📉 [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) [![GitHub_Stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers)
 * **Primary Focus**: 💾 High-Performance, Cost-Effective Prometheus Long-Term Storage
 * **Tech Stack &amp; License**: Go | **Apache 2.0 License**
 * **Architectural Highlights**: Ultra-fast, resource-efficient time-series database (TSDB) engineered as a drop-in replacement or remote storage engine for Prometheus. Delivers exceptional compression ratios, low RAM consumption, and sub-second query execution across high-cardinality metric sets.
 
-### 14. 🔌 [Telegraf](https://github.com/influxdata/telegraf) [![GitHub stars](https://img.shields.io/github/stars/influxdata/telegraf)](https://github.com/influxdata/telegraf/stargazers)
+### 14. 🔌 [Telegraf](https://github.com/influxdata/telegraf) [![GitHub_Stars](https://img.shields.io/github/stars/influxdata/telegraf)](https://github.com/influxdata/telegraf/stargazers)
 * **Primary Focus**: 📥 Plugin-Driven Server Agent for Metric Collection &amp; Processing
 * **Tech Stack &amp; License**: Go | **MIT License**
 * **Architectural Highlights**: Part of the InfluxData ecosystem; an extensible agent featuring 300+ community-built input, processor, aggregator, and output plugins. Collects metrics from databases, message queues, IoT sensors, and OS internals, dispatching to any telemetry store.
 
-### 15. 📍 [OpenZipkin](https://github.com/openzipkin/zipkin) [![GitHub stars](https://img.shields.io/github/stars/openzipkin/zipkin?style=social&color=white)](https://github.com/openzipkin/zipkin/stargazers)
+### 15. 📍 [OpenZipkin](https://github.com/openzipkin/zipkin) [![GitHub_Stars](https://img.shields.io/github/stars/openzipkin/zipkin?style=social&color=white)](https://github.com/openzipkin/zipkin/stargazers)
 * **Primary Focus**: 🧵 Distributed Tracing System for Microservice Latency Diagnostics
 * **Tech Stack &amp; License**: Java | **Apache 2.0 License**
 * **Architectural Highlights**: Battle-tested distributed tracing system that helps gather timing data needed to troubleshoot latency problems in service architectures. Features Cassandra, Elasticsearch, and MySQL storage backends and native integration with Spring Cloud Sleuth and Brave.
 
-### 16. 🪐 [Thanos](https://github.com/thanos-io/thanos) [![GitHub stars](https://img.shields.io/github/stars/thanos-io/thanos?style=social&color=white)](https://github.com/thanos-io/thanos/stargazers)
+### 16. 🪐 [Thanos](https://github.com/thanos-io/thanos) [![GitHub_Stars](https://img.shields.io/github/stars/thanos-io/thanos?style=social&color=white)](https://github.com/thanos-io/thanos/stargazers)
 * **Primary Focus**: 🌌 Highly Available Metric System with Unlimited Storage for Prometheus
 * **Tech Stack &amp; License**: Go | **Apache 2.0 License**
 * **Architectural Highlights**: CNCF graduated project providing seamless global metric view, high availability, and historical data backup to cloud object storage (S3, GCS, Azure Blob) across multi-cluster Prometheus deployments without downtime.
 
-### 17. 🌊 [Fluentd](https://github.com/fluent/fluentd) [![GitHub stars](https://img.shields.io/github/stars/fluent/fluentd?style=social&color=white)](https://github.com/fluent/fluentd/stargazers)
+### 17. 🌊 [Fluentd](https://github.com/fluent/fluentd) [![GitHub_Stars](https://img.shields.io/github/stars/fluent/fluentd?style=social&color=white)](https://github.com/fluent/fluentd/stargazers)
 * **Primary Focus**: 📄 Unified Logging Layer for Cross-Platform Log Collection
 * **Tech Stack &amp; License**: Ruby, C | **Apache 2.0 License**
 * **Architectural Highlights**: CNCF graduated unified data collector that unifies data collection and consumption for better use and understanding of data. Offers 500+ plugins connecting to multiple log destinations and reliable buffering mechanisms.
 
-### 18. 🔥 [Grafana Pyroscope](https://github.com/grafana/pyroscope) [![GitHub stars](https://img.shields.io/github/stars/grafana/pyroscope?style=social&color=white)](https://github.com/grafana/pyroscope/stargazers)
+### 18. 🔥 [Grafana Pyroscope](https://github.com/grafana/pyroscope) [![GitHub_Stars](https://img.shields.io/github/stars/grafana/pyroscope?style=social&color=white)](https://github.com/grafana/pyroscope/stargazers)
 * **Primary Focus**: 🔬 Continuous Profiling Platform for CPU &amp; Memory Allocation
 * **Tech Stack &amp; License**: Go | **AGPL v3 License**
 * **Architectural Highlights**: Continuous profiling platform designed to monitor application performance at the line-of-code level. Visualizes flame graphs, identifies CPU hotspots, detects memory leaks, and correlates profiling data directly with distributed traces.
 
-### 19. ⚡ [Fluent Bit](https://github.com/fluent/fluent-bit) [![GitHub stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers)
+### 19. ⚡ [Fluent Bit](https://github.com/fluent/fluent-bit) [![GitHub_Stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers)
 * **Primary Focus**: 🪶 Super-Fast, Lightweight Telemetry Agent for Embedded &amp; Container Logs
 * **Tech Stack &amp; License**: C | **Apache 2.0 License**
 * **Architectural Highlights**: High-performance, multi-platform log, metric, and trace processor and forwarder. Extremely low memory footprint (~450KB), zero-dependency design, ideal for high-throughput Kubernetes DaemonSets and edge computing.
 
-### 20. 🤖 [Coroot](https://github.com/coroot/coroot) [![GitHub stars](https://img.shields.io/github/stars/coroot/coroot?style=social&color=white)](https://github.com/coroot/coroot/stargazers)
+### 20. 🤖 [Coroot](https://github.com/coroot/coroot) [![GitHub_Stars](https://img.shields.io/github/stars/coroot/coroot?style=social&color=white)](https://github.com/coroot/coroot/stargazers)
 * **Primary Focus**: 🩺 Zero-Code eBPF-Based APM &amp; Infrastructure Observability
 * **Tech Stack &amp; License**: Go | **Apache 2.0 License**
 * **Architectural Highlights**: Leverages Linux kernel eBPF probes to intercept inter-service network traffic, CPU profiling, and database calls without changing code or importing language agents. Automatically diagnoses service degradation and visualizes dynamic network topology maps.
 
-### 21. 🌐 [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector) [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)
+### 21. 🌐 [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector) [![GitHub_Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)
 * **Primary Focus**: 🔄 Vendor-Agnostic Telemetry Ingestion, Processing &amp; Export
 * **Tech Stack &amp; License**: Go | **Apache 2.0 License**
 * **Architectural Highlights**: The vendor-neutral telemetry proxy of the Cloud Native Computing Foundation (CNCF). Ingests metrics, traces, and logs across OTLP, Jaeger, Zipkin, and Prometheus formats; transforms and sanitizes telemetry; and fans out data to multiple backends simultaneously.
 
-### 22. 🏢 [Zabbix](https://github.com/zabbix/zabbix) [![GitHub stars](https://img.shields.io/github/stars/zabbix/zabbix?style=social&color=white)](https://github.com/zabbix/zabbix/stargazers)
+### 22. 🏢 [Zabbix](https://github.com/zabbix/zabbix) [![GitHub_Stars](https://img.shields.io/github/stars/zabbix/zabbix?style=social&color=white)](https://github.com/zabbix/zabbix/stargazers)
 * **Primary Focus**: 📡 Enterprise-Scale Network, Server &amp; Distributed Monitoring
 * **Tech Stack &amp; License**: C, PHP, Go | **AGPL v3 License**
 * **Architectural Highlights**: Proven enterprise monitoring platform supporting agent-based and agentless monitoring (SNMP, IPMI, JMX, SSH). Zabbix 8.0 LTS introduces native OpenTelemetry trace ingestion for full APM, MCP server integration for AI assistants, and high-performance ClickHouse storage backends.
 
-### 23. 🗃️ [Cortex](https://github.com/cortexproject/cortex) [![GitHub stars](https://img.shields.io/github/stars/cortexproject/cortex?style=social&color=white)](https://github.com/cortexproject/cortex/stargazers)
+### 23. 🗃️ [Cortex](https://github.com/cortexproject/cortex) [![GitHub_Stars](https://img.shields.io/github/stars/cortexproject/cortex?style=social&color=white)](https://github.com/cortexproject/cortex/stargazers)
 * **Primary Focus**: 📈 Horizontally Scalable, Multi-Tenant, Long-Term TSDB for Prometheus
 * **Tech Stack &amp; License**: Go | **Apache 2.0 License**
 * **Architectural Highlights**: CNCF graduated project delivering scalable multi-tenant metrics as a service. Provides a globally queryable PromQL interface backed by cheap object storage (S3/GCS) with built-in query caching and deduplication.
 
-### 24. 🎯 [Grafana Tempo](https://github.com/grafana/tempo) [![GitHub stars](https://img.shields.io/github/stars/grafana/tempo?style=social&color=white)](https://github.com/grafana/tempo/stargazers)
+### 24. 🎯 [Grafana Tempo](https://github.com/grafana/tempo) [![GitHub_Stars](https://img.shields.io/github/stars/grafana/tempo?style=social&color=white)](https://github.com/grafana/tempo/stargazers)
 * **Primary Focus**: 🧩 Massive-Scale Distributed Tracing Backend
 * **Tech Stack &amp; License**: Go | **AGPL v3 License**
 * **Architectural Highlights**: High-throughput distributed tracing backend requiring only object storage (S3/GCS/Azure Blob). Integrates with Jaeger, Zipkin, and OpenTelemetry, allowing engineers to query traces directly from Grafana without costly full-payload indexing.
 
-### 25. 🔒 [Tetragon (Cilium)](https://github.com/cilium/tetragon) [![GitHub stars](https://img.shields.io/github/stars/cilium/tetragon?style=social&color=white)](https://github.com/cilium/tetragon/stargazers)
+### 25. 🔒 [Tetragon (Cilium)](https://github.com/cilium/tetragon) [![GitHub_Stars](https://img.shields.io/github/stars/cilium/tetragon?style=social&color=white)](https://github.com/cilium/tetragon/stargazers)
 * **Primary Focus**: 🛡️ eBPF-Based Real-Time Security Observability &amp; Runtime Enforcement
 * **Tech Stack &amp; License**: Go, C | **Apache 2.0 License**
 * **Architectural Highlights**: Built by the Cilium team; uses deep eBPF kernel instrumentation to provide kernel-level security observability, tracing process executions, namespace transitions, privileged file accesses, and network socket opens with in-kernel policy enforcement.
@@ -249,7 +249,7 @@ Contributions are warmly welcomed! Please follow these steps to propose new SaaS
    ```
 3. **Add Entries According to Format**:
    - For **SaaS**: Add to the SaaS table with exact starting tier pricing, free tier limits, company valuation/revenue, and key features.
-   - For **Open-Source**: Include the repository link, star count social badge (`https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white`), license, and architectural highlights. Ensure entries remain sorted descending by star count.
+   - For **Open-Source**: Include the repository link, Stars_Count social badge (`https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white`), license, and architectural highlights. Ensure entries remain sorted descending by Stars_Count.
 4. **Submit a Pull Request**: Provide a concise explanation and link to the official documentation or GitHub repository.
 
 Check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
